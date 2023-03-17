@@ -1,8 +1,8 @@
-seetaface-models (1.0.0-1+u002) UNRELEASED; urgency=medium
+seetaface-models (1.0.0-1+u002deepin) unstable; urgency=medium
 
   * update
 
- -- Deepin Packages Builder <packages@deepin.com>  Thu, 28 Apr 2022 16:29:43 +0800
+ -- Yutao Meng <mengyutao@uniontech.com>  Fri, 17 Mar 2023 17:14:18 +0800
 
 seetaface-models (1.0.0-1) unstable; urgency=medium
 
